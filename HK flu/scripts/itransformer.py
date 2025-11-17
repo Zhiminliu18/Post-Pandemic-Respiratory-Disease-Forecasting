@@ -179,7 +179,7 @@ if __name__ == "__main__":
     horizon = 9
     model_name = 'itransformer'
     # modes = ['base_stage_holi_pf_ol', 'base_stage_holi_pf','base_stage_holi','base_stage_pf','base_stage','base']
-    modes = ['base']
+    modes = ['base','base_stage_holi_pf']
     seeds = [42]
     params1 = {
         'lr' : 0.00015,

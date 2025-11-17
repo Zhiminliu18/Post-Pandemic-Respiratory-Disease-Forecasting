@@ -179,7 +179,7 @@ if __name__ == "__main__":
     data = get_data()
     horizon = 9
     model_name = 'tcn'
-    modes = ['base']
+    modes = ['base_week_holi_pf']
     seeds = [42]
     params1 = {
         'lr' : 0.0003,

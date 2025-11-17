@@ -177,7 +177,7 @@ if __name__ == "__main__":
 
     horizon = 9
     model_name = 'gru'
-    modes = ['base']
+    modes = ['base_week_holi_pf']
     seeds = [42] #123,456. 0.001,10-3
     params1 = {
         'lr' : 0.0003,
