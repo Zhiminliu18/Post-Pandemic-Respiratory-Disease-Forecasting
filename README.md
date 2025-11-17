@@ -1,5 +1,8 @@
 ## Scripts:
 
+### environment:
+python3.9
+
 ### --SIRSPF module:
 - particle_filter.ipynb
 
@@ -8,3 +11,5 @@
 - itransformer.py
 - Nbeats.py
 - TCN.py
+
+
